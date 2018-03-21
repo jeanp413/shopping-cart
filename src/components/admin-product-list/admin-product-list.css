@@ -1,0 +1,13 @@
+.admin-products-table tbody tr p {
+  margin: 0;
+}
+
+.admin-products-table .text-price::before {
+  content: "$";
+}
+
+.admin-product-img {
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}

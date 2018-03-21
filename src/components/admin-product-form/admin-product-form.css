@@ -1,0 +1,10 @@
+.admin-product-form-img{
+  flex-shrink: 0;
+}
+
+.admin-product-form-img img{
+  width: 330px;
+  min-width: 330px;
+  min-height: 330px;
+  object-fit: contain;
+}

@@ -1,0 +1,8 @@
+.shopping-cart-product-img {
+  height: 250px;
+  object-fit: cover;
+}
+
+.shopping-cart-product .text-price::before {
+  content: "$";
+}

@@ -1,0 +1,14 @@
+.admin-page {
+  min-height: 100vh;
+}
+
+.admin-body {
+  margin-top: 56px;
+  flex: 1 1;
+}
+
+.admin-main {
+  margin-left: 251px;
+  flex: 1 1;
+  padding: 30px;
+}

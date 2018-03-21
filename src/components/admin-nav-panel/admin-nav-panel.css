@@ -1,0 +1,21 @@
+.admin-sidebar {
+    min-width: 250px;
+    max-width: 250px;
+    box-shadow: inset -1px 0 0 rgba(0, 0, 0, .1);
+    position: fixed;
+    height: calc(100vh - 56px);
+}
+
+.admin-sidebar .nav-link {
+  font-weight: 500;
+  color: #333;
+}
+
+.admin-sidebar .nav-link.active {
+  font-weight: 700;
+  color: #007bff;
+}
+
+.admin-sidebar .nav-link:hover {
+  background: #e1e4e4;
+}
