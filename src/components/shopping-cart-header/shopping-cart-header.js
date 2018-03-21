@@ -24,7 +24,7 @@ class ShoppingCartHeader extends React.Component {
   }
 
   render() {
-    const { cartProducts, cartTotalPrice, removeFromCart, chekout } = this.props;
+    const { cartProducts, cartTotalPrice, removeFromCart, checkout } = this.props;
 
     const cartProductElements = cartProducts.map(product => (
       <CartProduct key={product.id} product={product} onRemoveFromCartClicked={removeFromCart} />
@@ -52,7 +52,7 @@ class ShoppingCartHeader extends React.Component {
                   {cartProductElements}
                 </CartProductList>
                 <p className="cart-total-price font-weight-bold text-right px-3">Total: <span className="text-price">{cartTotalPrice}</span></p>
-                <Button color="success" disabled={cartProductElements.length <= 0} block onClick={chekout}>Checkout</Button>
+                <Button color="success" disabled={cartProductElements.length <= 0} block onClick={checkout}>Checkout</Button>
               </PopoverBody>
             </Popover>
           </div>
