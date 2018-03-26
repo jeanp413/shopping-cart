@@ -1,183 +1,183 @@
 export default [
   {
     "id": 1,
-    "name": "JS Stickers",
-    "image": "https://pwa-shop.firebaseapp.com/assets/products/jsconf-detail_1024x1024.jpg",
+    "name": "Product 1",
+    "image": "http://via.placeholder.com/300/92c952",
     "price": 6.0,
     "stock": 10,
-    "category": "sticker",
-    "description": "If you've been to a JSConf in the last few years, or almost anything JavaScript related, really, you've probably seen this shiny yellow sticker. At last, there's a way to get it aside from pestering Chris Williams for the stash he's always got in his bag ;)"
+    "category": "category 1",
+    "description": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
   },
   {
     "id": 2,
-    "name": "Git React Angular Vue sticker pack",
-    "image": "https://pwa-shop.firebaseapp.com/assets/products/git-react-angular-vue-sticker.jpg",
+    "name": "Product 2",
+    "image": "http://via.placeholder.com/300/771796",
     "price": 7,
     "stock": 20,
-    "category": "sticker",
-    "description": "The most popular Front End Frameworks right now. Plus, the most popular version control software among JS developer."
+    "category": "category 1",
+    "description": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et"
   },
   {
     "id": 3,
-    "name": "Ember Stickers",
-    "image": "https://pwa-shop.firebaseapp.com/assets/products/ember-detail_1024x1024.jpg",
+    "name": "Product 3",
+    "image": "http://via.placeholder.com/300/24f355",
     "price": 6.0,
     "stock": 15,
-    "category": "sticker",
-    "description": "Ember has been without a logo for a while now, so now that we've got one, let's shift to promotion mode :) It's a lovely shade of fire-insinuating orange, and looks great on dark background. Or stuck on anything, really. Just do it."
+    "category": "category 1",
+    "description": "quia molestiae reprehenderit quasi aspernatur\naut expedita occaecati aliquam eveniet laudantium\nomnis quibusdam delectus saepe quia accusamus maiores nam est\ncum et ducimus et vero voluptates excepturi deleniti ratione"
   },
   {
     "id": 4,
-    "name": "jQuery Stickers",
-    "image": "https://pwa-shop.firebaseapp.com/assets/products/jquery-detail_1024x1024.jpg",
+    "name": "Product 4",
+    "image": "http://via.placeholder.com/300/d32776",
     "price": 6.0,
     "stock": 1,
-    "category": "sticker",
-    "description": "Not much to say about this one, ehy? Stick them on your laptop, your desk, your wall, or your face (Fine-print: adhesive is not guaranteed to work on your face); wherever it is, we're happy to help you show your jQuery pride in this classic fashion."
+    "category": "category 1",
+    "description": "non et atque\noccaecati deserunt quas accusantium unde odit nobis qui voluptatem\nquia voluptas consequuntur itaque dolor\net qui rerum deleniti ut occaecati"
   },
   {
     "id": 5,
-    "name": "Sass Stickers",
-    "image": "https://pwa-shop.firebaseapp.com/assets/products/sass-detail-02_1024x1024.jpg",
+    "name": "Product 5",
+    "image": "http://via.placeholder.com/300/f66b97",
     "price": 6.0,
     "stock": 0,
-    "category": "sticker",
-    "description": "Sass is the most mature, stable, and powerful professional grade CSS extension language in the world—that's the word on the street anyway :) For our purposes, it's also got a super-purdy pink logo. Finally available in a sticker, after much popular demand. Grab yours now!"
+    "category": "category 1",
+    "description": "harum non quasi et ratione\ntempore iure ex voluptates in ratione\nharum architecto fugit inventore cupiditate\nvoluptates magni quo et"
   },
   {
     "id": 6,
-    "name": "Backbone Stickers",
-    "image": "https://pwa-shop.firebaseapp.com/assets/products/backbone-detail_1024x1024.jpg",
+    "name": "Product 6",
+    "image": "http://via.placeholder.com/300/56a8c2",
     "price": 6.0,
     "stock": 13,
-    "category": "sticker",
-    "description": "Backbone.js is a JavaScript framework that's been popular for a little while now. But if you're here, we're guessing you already knew that ;)"
+    "category": "category 1",
+    "description": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in"
   },
   {
     "id": 7,
-    "name": "Die Cut GitHub Stickers",
-    "image": "https://pwa-shop.firebaseapp.com/assets/products/sticker-small_1024x1024.jpg",
+    "name": "Product 7",
+    "image": "http://via.placeholder.com/300/b0f7cc",
     "price": 2.0,
     "stock": 20,
-    "category": "sticker",
-    "description": "These 3 inch die cut Octocat stickers are fun for all ages! They come in packs of 10 or 50. These stickers are sure to spruce up anything you stick them on."
+    "category": "category 1",
+    "description": "maiores sed dolores similique labore et inventore et\nquasi temporibus esse sunt id et\neos voluptatem aliquam\naliquid ratione corporis molestiae mollitia quia et magnam dolor"
   },
   {
     "id": 8,
-    "name": "Ember Mascot",
-    "image": "https://pwa-shop.firebaseapp.com/assets/products/tomstervinyl-full_02_1024x1024.jpg",
+    "name": "Product 8",
+    "image": "http://via.placeholder.com/300/54176f",
     "price": 10.0,
     "stock": 10,
-    "category": "figurine",
-    "description": "For the Ember enthusiast who prefers a plastic statue to the soft plush stuffie ;) He's about 2.5\" wide x 3\" tall, and 100% awesome—such detail, in every piece of fur!<br>We spent months working on a hand-painted prototype, and finally have mass quantities for friends and loved ones alike. And just in case folks walking by your desk weren't exactly sure who he was, Tomster's got the Ember logo on the bottom of his left foot."
+    "category": "category 1",
+    "description": "ut voluptatem corrupti velit\nad voluptatem maiores\net nisi velit vero accusamus maiores\nvoluptates quia aliquid ullam eaque"
   },
   {
     "id": 9,
-    "name": "Octocat Figurine",
-    "image": "https://pwa-shop.firebaseapp.com/assets/products/mona-2_1024x1024.jpg",
+    "name": "Product 9",
+    "image": "http://via.placeholder.com/300/51aa97",
     "price": 15.0,
     "stock": 15,
-    "category": "figurine",
-    "description": "For years, the Octocat has been stuck in the realm of two dimensions—but no more! Now she’s crawling off your laptop and onto your desk as a 5\" vinyl figurine. <br>And: <br> Measuring in at a tremendous 3\" tall and 4\" from whisker tip to whisker tip, the mini Octocat figurine is now a little bit smaller and a little bit easier to fit on your desk or in your favorite potted plant.<br>The Octocat figurine is a sculpture, not a toy. It has small parts, so if you're under 13, please do not try to swallow it."
+    "category": "category 2",
+    "description": "sapiente assumenda molestiae atque\nadipisci laborum distinctio aperiam et ab ut omnis\net occaecati aspernatur odit sit rem expedita\nquas enim ipsam minus"
   },
   {
     "id": 10,
-    "name": "I [octocat] Code 2.0",
-    "image": "https://pwa-shop.firebaseapp.com/assets/products/MG_1978_1024x1024.jpg",
+    "name": "Product 10",
+    "image": "http://via.placeholder.com/300/810b14",
     "price": 25.0,
     "stock": 5,
-    "category": "tee",
-    "description": "In the beginning, there was the I :octocat: code shirt. Games were changed, paradigms were shifted, and codes were octocatted.<br>Then time passed. New games were created. New paradigms appeared. And yet, the codes were still octocatted in the same old fashioned way.<br>BUT NO LONGER.<br>Now you can octocat code in a brand new way: 2.0. Printed on American Apparel tri-blend t-shirts, this beauty will enable you to octocat code in the most cutting edge of fashions. While you're at it, buy a couple. You never know who is likely to tear this shirt off your back in a deranged fit of jealousy."
+    "category": "category 2",
+    "description": "voluptate iusto quis nobis reprehenderit ipsum amet nulla\nquia quas dolores velit et non\naut quia necessitatibus\nnostrum quaerat nulla et accusamus nisi facilis"
   },
   {
     "id": 11,
-    "name": "Ember.js t-shirt",
-    "image": "https://pwa-shop.firebaseapp.com/assets/products/ember-shirt-front_1024x1024.png",
+    "name": "Product 11",
+    "image": "http://via.placeholder.com/300/1ee8a4",
     "price": 22.0,
     "stock": 10,
-    "category": "tee",
-    "description": "Ember is the new hotness, ahem, but thus far, you haven't been able to wear it. Until today! The Ember shirts are a Poly-cotton shirt, which means slightly softer and more comfy than the traditional American Apparel cut."
+    "category": "category 2",
+    "description": "ut dolorum nostrum id quia aut est\nfuga est inventore vel eligendi explicabo quis consectetur\naut occaecati repellat id natus quo est\nut blanditiis quia ut vel ut maiores ea"
   },
   {
     "id": 12,
-    "name": "Handlebars t-shirt",
-    "image": "https://pwa-shop.firebaseapp.com/assets/products/handlebars-shirt-front_1024x1024.png",
+    "name": "Product 12",
+    "image": "http://via.placeholder.com/300/66b7d2",
     "price": 22.0,
     "stock": 10,
-    "category": "tee",
-    "description": "Who doesn't want a Handlebars mustache across their chest? Yep, that's what we thought. And come to think of it, do you really own enough bright orange shirts?"
+    "category": "category 2",
+    "description": "expedita maiores dignissimos facilis\nipsum est rem est fugit velit sequi\neum odio dolores dolor totam\noccaecati ratione eius rem velit"
   },
   {
     "id": 13,
-    "name": "Classic jQuery t-shirt",
-    "image": "https://pwa-shop.firebaseapp.com/assets/products/jquery-classic-shirt-front_1024x1024.jpg",
+    "name": "Product 13",
+    "image": "http://via.placeholder.com/300/197d29",
     "price": 22,
     "stock": 8,
-    "category": "tee",
-    "description": "If you've been around for a while, you've seen the classic jQuery Tshirts around. They were distributed at our first few conferences before we decided to get freaky with shirt design, and remain, the *Classic* jQuery Tshirt."
+    "category": "category 2",
+    "description": "fuga eos qui dolor rerum\ninventore corporis exercitationem\ncorporis cupiditate et deserunt recusandae est sed quis culpa\neum maiores corporis et"
   },
   {
     "id": 14,
-    "name": "Invertocat 2.0",
-    "image": "https://pwa-shop.firebaseapp.com/assets/products/blacktocat-3_1024x1024.jpg",
+    "name": "Product 14",
+    "image": "http://via.placeholder.com/300/61a65",
     "price": 25.0,
     "stock": 11,
-    "category": "tee",
-    "description": "Check it. Invertocat's back with a whole new direction. He's exited stealth mode and is ready for primetime, now with a stylish, more visible front logo.<br>Everything else is the same as the last edition. Same American Apparel tri-blend shirt (sizing is more normal to AA this time). Still stylish as hell, and still SOFTER THAN ISH. Best to buy three, because your friends will steal this right off your back. And it's still not summer yet, so you might get cold. Unless you live in the Southern hemisphere, in which case I salute you, mister upside down person."
+    "category": "category 3",
+    "description": "vel quae voluptas qui exercitationem\nvoluptatibus unde sed\nminima et qui ipsam aspernatur\nexpedita magnam laudantium et et quaerat ut qui dolorum"
   },
 
   {
     "id": 15,
-    "name": "It's not a bug, it's a feature Mug",
-    "image": "https://pwa-shop.firebaseapp.com/assets/products/3-its-not-a-bug-its-a-feature.jpg",
+    "name": "Product 15",
+    "image": "http://via.placeholder.com/300/f9cee5",
     "price": 15.0,
     "stock": 10,
-    "category": "mug",
-    "description": "- Is it a bug or a feature?<br>- No.<br><br>Every mug comes with a free coaster with the same design."
+    "category": "category 3",
+    "description": "nihil ut voluptates blanditiis autem odio dicta rerum\nquisquam saepe et est\nsunt quasi nemo laudantium deserunt\nmolestias tempora quo quia"
   },
   {
     "id": 16,
-    "name": "Keep calm and write code Mug",
-    "image": "https://pwa-shop.firebaseapp.com/assets/products/1-keep-calm-and-write-code.jpg",
+    "name": "Product 16",
+    "image": "http://via.placeholder.com/300/fdf73e",
     "price": 15.0,
     "stock": 10,
-    "category": "mug",
-    "description": "Keep calm, write code and everything will be fine.<br>Every mug comes with a free coaster with the same design."
+    "category": "category 3",
+    "description": "iste ut laborum aliquid velit facere itaque\nquo ut soluta dicta voluptate\nerror tempore aut et\nsequi reiciendis dignissimos expedita consequuntur libero sed fugiat facilis"
   },
   {
     "id": 17,
-    "name": "Octocat Mug",
-    "image": "https://pwa-shop.firebaseapp.com/assets/products/white-mug-1_1024x1024.jpg",
+    "name": "Product 17",
+    "image": "http://via.placeholder.com/300/9c184f",
     "price": 14,
     "stock": 5,
-    "category": "mug",
-    "description": "The mug you've been dreaming about. Octocat on one side, GitHub logo on the other. One sip from this ceramic 16oz fluid delivery system and you'll never go back to red cups."
+    "category": "category 3",
+    "description": "consequatur necessitatibus totam sed sit dolorum\nrecusandae quae odio excepturi voluptatum harum voluptas\nquisquam sit ad eveniet delectus\ndoloribus odio qui non labore"
   },
   {
     "id": 18,
-    "name": "code:deck modern Playing Card",
-    "image": "https://pwa-shop.firebaseapp.com/assets/products/3-code-deck-modern.jpg",
+    "name": "Product 18",
+    "image": "http://via.placeholder.com/300/1fe46f",
     "price": 15,
     "stock": 10,
-    "category": "playing-cards",
-    "description": "code:deck modern is a unique playing card deck where each individual card features a code snippet describing it.<br>See a list of all the featured programming languages in our FAQ section.<br>Choose from two materials - 100% plastic and plastic-coated with linen finish."
+    "category": "category 3",
+    "description": "veritatis voluptates necessitatibus maiores corrupti\nneque et exercitationem amet sit et\nullam velit sit magnam laborum\nmagni ut molestias"
   },
   {
     "id": 19,
-    "name": "Functional programming Poster",
-    "image": "https://pwa-shop.firebaseapp.com/assets/products/1-functional-programming.jpg",
+    "name": "Product 19",
+    "image": "http://via.placeholder.com/300/56acb2",
     "price": 20,
     "stock": 10,
-    "category": "poster",
-    "description": "I don't always write code, but when I do - it's functional!<br>Size:  46x61 cm (18x24 in)<br>Weight:  300 gsm<br>Posters are sold without the frame and could come in a separate box."
+    "category": "category 3",
+    "description": "doloribus est illo sed minima aperiam\nut dignissimos accusantium tempore atque et aut molestiae\nmagni ut accusamus voluptatem quos ut voluptates\nquisquam porro sed architecto ut"
   },
   {
     "id": 20,
-    "name": "Programming languages Poster",
-    "image": "https://pwa-shop.firebaseapp.com/assets/products/3-programming-languages.jpg",
+    "name": "Product 20",
+    "image": "http://via.placeholder.com/300/8985dc",
     "price": 20,
     "stock": 7,
-    "category": "poster",
-    "description": "Buy this poster to show your broad understanding of programming languages.<br>Size:  46x61 cm (18x24 in)<br>Weight:  300 gsm<br>Posters are sold without the frame and could come in a separate box."
+    "category": "category 3",
+    "description": "qui harum consequatur fugiat\net eligendi perferendis at molestiae commodi ducimus\ndoloremque asperiores numquam qui\nut sit dignissimos reprehenderit tempore"
   }
 ];
